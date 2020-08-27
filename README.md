@@ -1,5 +1,5 @@
-# undefined
-  # Homework: README Generator
+# README Generator
+  # Homework 
   
   ## Table of Contents
   
@@ -36,6 +36,8 @@
 
   ## Test :
   undefined
+
+  Above is a README.md sample generated through node and javascript. Watch the gif to see how to create a new README file. 
 
 
 
