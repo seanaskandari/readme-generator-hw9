@@ -3,25 +3,14 @@ function generateMarkdown(data) {
   return `# ${data.title}
   # Homework: README Generator
   
-  # Table of Contents
-
-  ## Description
-  * [Description](#Description)
-
-  ## Installation
-  * [Installation](#Installation)
-
-  ## Usage
-  * [Usage](#Usage)
-
-  ## Contributing
-  * [Contributing](#Contributing)
-
-  ## Tests
-  * [Tests](#Tests)
-
-  ## Questions
-  * [Questions](#Questions)
+  ## Table of Contents
+  
+  * [Description](###Description)
+  * [License](###License)
+  * [Installation](###Installation)
+  * [Tests](###Tests)
+  * [Usage](###Usage)
+  * [Contributions](###Contributions)
 
   ## Username :
   ${data.Username}
