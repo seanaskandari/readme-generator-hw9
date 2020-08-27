@@ -35,7 +35,20 @@ function generateMarkdown(data) {
   ## Description :
   ${data.Description}
 
-  ##
+  ## License :
+  ${data.License}
+
+  ## Dependents :
+  ${data.Dependents}
+
+  ## Usage :
+  ${data.Usage}
+
+  ## Contribution :
+  ${data.Contribution}
+
+  ## Test :
+  ${data.Test}
 
 
 
